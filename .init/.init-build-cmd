@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/tmp/code-generation/rainbow-tic-tac-toe-2453-2467/rainbow_tic_tac_toe_frontend"
+}

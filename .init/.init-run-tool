@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/code-generation/rainbow-tic-tac-toe-2453-2467/rainbow_tic_tac_toe_frontend"
+}
